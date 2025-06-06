@@ -28,7 +28,7 @@ This app solves that by:
 
 1. Clone this repo:
 
-git clone https://github.com/your-username/intern-board.git
+git clone https://github.com/Harshitha-P-git/intern--board.git
 cd intern-spotlight
 
 2. Install dependencies:
