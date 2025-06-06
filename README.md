@@ -45,6 +45,8 @@ GITHUB_TOKEN = "your_github_token_here"
 streamlit run app.py
 
 👥 Contributors
+
 P Harshitha
+
 P Rama Krishna Sai Prasad
 
