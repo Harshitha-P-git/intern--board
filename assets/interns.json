@@ -1,0 +1,10 @@
+{
+  "alice123": {
+    "name": "Alice Johnson",
+    "fun_fact": "She once built a robot that makes tea!"
+  },
+  "bob456": {
+    "name": "Bob Smith",
+    "fun_fact": "He can solve a Rubik’s cube in under a minute."
+  }
+}
