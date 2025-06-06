@@ -38,6 +38,7 @@ pip install -r requirements.txt
 3. Create the secrets file:
 
 # .streamlit/secrets.toml
+
 GITHUB_TOKEN = "your_github_token_here"
 
 4. Run the app:
